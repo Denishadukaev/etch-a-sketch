@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root{
+    width: 100vw;
+    height: 100vh;
+    padding: 100px;
+}
+
+.container{
+    display: grid;
+    width: 800px;
+    height: 800px;
+    border: 1px solid;
+    margin: auto ;
+}
+
+.btn{ 
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+
+}
